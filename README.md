@@ -25,6 +25,10 @@ This is a True/False Quiz Game application built using Python and OOPs (Object-O
 6. The game will provide feedback on whether the answer is correct or not and update your score accordingly.
 7. Continue answering True/False questions until the quiz is completed.
 
+## Using Open Trivia Database 🌐
+
+To fetch multiple questions for the quiz, we can utilize the Open Trivia Database API. This allows us to access a vast collection of trivia questions. We can modify the code to make API requests and retrieve a diverse set of questions to enhance the quiz experience. You can find the API documentation and usage details at [Open Trivia Database](https://opentdb.com/).
+
 ## Project Structure 📂
 
 The project consists of three Python files located in the repository:
@@ -63,5 +67,6 @@ This project serves as a basic template for a True/False Quiz Game using OOPs co
 ## Contribution 🤝
 
 Contributions are welcome! If you find any issues or have ideas for improvements, feel free to create an issue or submit a pull request.
+
 
 
